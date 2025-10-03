@@ -1,7 +1,6 @@
 # Aula 08 - Linguagem de Programação
 
-Esta pasta contém todo o material referente à Aula 08 da disciplina de Linguagem de Programação.
-
+Esta pasta contém todos os exercícios da Aula 08 da disciplina de Linguagem de Programação:
 ## Estrutura da pasta
 
 - exercicio1/
