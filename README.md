@@ -50,9 +50,5 @@ Para compilar os programas, você precisa ter um compilador C instalado (ex: GCC
 
    gcc arquivo1.c arquivo2.c -o programa
 
-## Compactação
 
-1. Coloque todos os exercícios e este arquivo `instrucoes.txt` dentro de uma pasta principal com seu nome e matrícula (ex: `Nono_123456`).
-2. Compacte a pasta em `.zip`.
-3. Envie o arquivo `.zip` conforme solicitado.
 
